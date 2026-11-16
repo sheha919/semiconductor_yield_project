@@ -1,0 +1,17 @@
+ucimlrepo
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+joblib
+pydantic
+python-dotenv
+langchain-core
+langgraph
+langchain-google-genai
+langchain-groq
+streamlit
+matplotlib
+notebook
+ipykernel
